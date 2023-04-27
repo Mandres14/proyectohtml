@@ -41,4 +41,12 @@ nav .nav-right-section .menu-icon{
     background-size: contain;
     width: 25px;
     height: 25px;
+    cursor: pointer;
+}
+
+nav .nav-right-section .imagen{
+    border-radius: 10%;
+    margin-left: 10px;
+    width: 65px;
+    height: auto;
 }
