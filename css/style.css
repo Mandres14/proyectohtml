@@ -73,11 +73,17 @@ main .main-input{
 }
 
 main .main-input-container{
-<<<<<<< HEAD
-    width: none;
-=======
     width: 525px;
->>>>>>> 4f0082214b8ce35b375549488d891ff12f0d9ed2
     border-radius: 100px;
-    
+    border: 1px solid #dfe1e5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+main .main-input input{
+    width: 450px;
+    height: 40px;
+    border: none;
+    outline: none;
 }
